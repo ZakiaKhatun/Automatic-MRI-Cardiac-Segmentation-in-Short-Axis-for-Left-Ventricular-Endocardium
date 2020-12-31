@@ -1,5 +1,5 @@
 # Automatic MRI Cardiac Segmentation in Short Axis for Left Ventricular Endocardium
-In this project, an automatic left ventricle (LV) segmentation algorithm is presented which is very important to assess cardiac functional parameters.
+###### Presentation of an automatic left ventricle (LV) segmentation algorithm 
 
 The main aim of this study was to develop a novel and robust algorithm which can improve the accuracy of automatic LV segmentation in short axis cardiac cine MR images. Our algorithm comprises four steps which are as follows:
 - Motion quantification to determine an initial region of interest surrounding the heart, 
